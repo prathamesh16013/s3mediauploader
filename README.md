@@ -1,6 +1,6 @@
 # s3mediauploader
 
-launch instance ,
+launch instance ,rds subnet groups,
 create database using rds, 
 create role in iam as a s3 full access and attach that role to ec2 instance, 
 create ACL enabled S3 bucket,
