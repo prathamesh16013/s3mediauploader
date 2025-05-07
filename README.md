@@ -9,7 +9,7 @@ sudo yum install php-mysqlnd -y
 go to default path of nginx and create ragistration.html and upload.php file
 
 *stepwise Commands:
-     sudo apt update
+
      sudo yum update
      sudo yum install nginx php php-fpm php8.3-fpm -y
      sudo service nginx start
